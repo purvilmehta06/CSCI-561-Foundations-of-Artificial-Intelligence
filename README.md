@@ -1,0 +1,1 @@
+This repository contains the homework assignments for the [CSCI 561](https://classes.usc.edu/term-20231/course/csci-561/) course, a graduate-level 4 credit course focused on Foundations of Artificial Intelligence. The course is being offered in Spring 2023 and taught by Prof. Laurent Itti at the University of Southern California. 
