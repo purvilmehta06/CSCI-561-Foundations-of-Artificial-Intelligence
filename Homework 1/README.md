@@ -13,7 +13,8 @@
 | Next H lines 	| W 32-bit integer numbers separated by any numbers of spaces for the M values of each of the W cells in each row of the map. Each number can represent the following cases:  1. E >= 0, snowy mountain slope with elevation E 2. E < 0, tree of height \|E\| that might be covered with snow depending on the elevation we approach it from                                                                                                                                                           	|
 
 ## Testing
-1. To run 50 pre-written test-cases, Run ```testing/script.sh```. This command will run pick 50 test cases from ```testing/test_cases``` folder and compares the costs of the true path and the cost of returned path by ```homework.py```
+1. To run 50 pre-written test-cases, Run ```testing/script.sh```. 
+2. This command picks 50 test cases from the ```testing/test_cases``` folder and compares the costs of the true path and the cost of a returned path by ```homework.py```.
 
 ## Run homework.py on single input
 1. Create ```input.txt``` as per the instruction above on the root directory. 
