@@ -17,6 +17,6 @@
 2. This command picks 50 test cases from the ```testing/test_cases``` folder and compares the costs of the true path and the cost of a returned path by ```homework.py```.
 
 ## Run homework.py on single input
-1. Create ```input.txt``` as per the instruction above on the root directory. 
+1. Create ```input.txt``` as per the instruction above in the root folder. 
 2. Run ```python3 homework.py input.txt```. 
 3. Generated path can be found in ```output.txt``` 
