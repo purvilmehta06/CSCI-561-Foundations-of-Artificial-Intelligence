@@ -25,7 +25,7 @@
 
 ## Testing
 1. To run 60 pre-written test-cases, Run ```testing/script.sh```. 
-2. This command picks 50 test cases from the ```testing/test_cases``` folder and compares the costs of the true path and the cost of a returned path by ```homework.py```.
+2. This command runs engine on 60 test cases from the ```testing/test_cases``` folder and compares the output with the true label.
 
 ## Run homework.py on single input
 1. Create ```input.txt``` as per the instruction above in the root folder. 
